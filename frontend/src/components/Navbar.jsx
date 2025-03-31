@@ -25,7 +25,7 @@ const Navbar = ({ setUsers }) => {
 					{/* Right side */}
 					<Flex gap={3} alignItems={"center"}>
 						<Text fontSize={"lg"} fontWeight={500} display={{ base: "none", md: "block" }}>
-							BFFship 🔥
+							BDFFship 🔥
 						</Text>
 
 						<Button onClick={toggleColorMode}>
